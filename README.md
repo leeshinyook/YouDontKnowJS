@@ -13,7 +13,7 @@
 
    2. [Value](https://github.com/leeshinyook/YouDontKnowJS/blob/master/TypeAndGrammer/Value.md)
 
-   3. Native
+   3. [Native](https://github.com/leeshinyook/YouDontKnowJS/blob/master/TypeAndGrammer/Native.md)
 
    4. Coercion
 
