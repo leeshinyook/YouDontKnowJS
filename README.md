@@ -9,9 +9,9 @@
 # 제1권 Scope & Closures 구성
 
 1. TypeAndGrammer
-   1. [Type](https://github.com/leeshinyook/YouDontKnowJS/blob/master/Type/Type.md)
+   1. [Type](https://github.com/leeshinyook/YouDontKnowJS/blob/master/TypeAndGrammer/Type.md)
 
-   2. [Value](https://github.com/leeshinyook/YouDontKnowJS/blob/master/Type/Value.md)
+   2. [Value](https://github.com/leeshinyook/YouDontKnowJS/blob/master/TypeAndGrammer/Value.md)
 
    3. Native
 
