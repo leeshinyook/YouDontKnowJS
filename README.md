@@ -3,4 +3,4 @@
 
 ![1449335586_1](https://user-images.githubusercontent.com/55838461/72202563-4ed3b680-34a4-11ea-999f-ead2fdd40e84.jpg)
 
-저자 : Kyle Simson
+저자 : Kyle Simpson
