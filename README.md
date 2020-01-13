@@ -18,7 +18,7 @@
 
    4. [Coercion](https://github.com/leeshinyook/YouDontKnowJS/blob/master/TypeAndGrammer/Coercive.md)
 
-   5. Grammer
+   5. [Grammer](https://github.com/leeshinyook/YouDontKnowJS/blob/master/TypeAndGrammer/Grammer.md)
 
 2. ScopeAndClosure
 
