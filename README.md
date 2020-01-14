@@ -22,7 +22,7 @@
 
 2. ScopeAndClosure
 
-   1. [Scope?](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/Scope?.md)
+   1. [Scope?](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/Scope%3F.md)
 
    2. LexicalScope
 
