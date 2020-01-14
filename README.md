@@ -26,7 +26,7 @@
 
    2. [LexicalScope](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/LexicalScope.md)
 
-   3. FunctionVsBlockScope
+   3. [FunctionVsBlockScope](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/FunctionAndBlockscope.md)
 
    4. Hoisting
 
