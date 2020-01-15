@@ -34,9 +34,9 @@
 
 3. Appendix
 
-   1. [Environment](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/Environment.md)
+   1. [Environment](https://github.com/leeshinyook/YouDontKnowJS/blob/master/Appendix/Environment.md)
 
-   2. [ScopeAndLexicalThis](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/ScopeAndLexicalThis.md)
+   2. [ScopeAndLexicalThis](https://github.com/leeshinyook/YouDontKnowJS/blob/master/Appendix/ScopeAndLexicalThis.md)
 
 ### 제 1권을 읽고,
 
