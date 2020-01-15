@@ -59,21 +59,21 @@ foo.doAnother(); // 1 ! 2 ! 3
 
 ## 싱글톤(Singleton)만 생성하는 모듈 : 모듈 + IIFE
 
-```javascript_
+```javascript
 var singleton = (function Module() {
-    var v = 'var';
+  var v = "var";
 
-    function _get() {
-        return v;
-    }
-    function _set(value) {
-        v = value;
-    }
-    var publicAPI = {
-        get : _get,
-        set : _set
-    }
-    return publicAPI;
+  function _get() {
+    return v;
+  }
+  function _set(value) {
+    v = value;
+  }
+  var publicAPI = {
+    get: _get,
+    set: _set
+  };
+  return publicAPI;
 })();
 
 singleton.get();
