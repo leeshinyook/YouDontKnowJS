@@ -34,6 +34,6 @@
 
 3. Appendix
 
-   1. Environment
+   1. [Environment](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/Environment.md)
 
    2. ScopeAndLexicalThis
