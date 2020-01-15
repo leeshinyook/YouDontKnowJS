@@ -28,7 +28,7 @@
 
    3. [FunctionVsBlockScope](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/FunctionAndBlockscope.md)
 
-   4. Hoisting
+   4. [Hoisting](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/Hoisting.md)
 
    5. ScopeClosure
 
