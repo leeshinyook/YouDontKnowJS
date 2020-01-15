@@ -30,7 +30,7 @@
 
    4. [Hoisting](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/Hoisting.md)
 
-   5. ScopeClosure
+   5. [ScopeClosure](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ScopeAndClosures/ScopeClosure.md)
 
 3. Appendix
 
