@@ -3,6 +3,9 @@
 카일심슨의 You Don't know JS라는 책을 읽고 스스로 정리하기 위한 저장소입니다.
 
 ![1449335586_1](https://user-images.githubusercontent.com/55838461/72202563-4ed3b680-34a4-11ea-999f-ead2fdd40e84.jpg)
+![1491904151_1](https://user-images.githubusercontent.com/55838461/72542661-d9168300-38c7-11ea-99d7-601f7df6ca6d.jpg)
+![1491904224_1](https://user-images.githubusercontent.com/55838461/72542665-dae04680-38c7-11ea-8286-1154a5057a9f.jpg)
+
 
 저자 : Kyle Simpson
 
