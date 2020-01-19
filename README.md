@@ -51,4 +51,4 @@
 
 1. ThisAndPrototype
    1. [This?](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ThisAndPrototype/This%3F.md)
-   2. [bind](https://github.com/leeshinyook/YouDontKnowJS/blob/master/ThisAndPrototype/bind.md)
+   2. [bind]()(https://github.com/leeshinyook/YouDontKnowJS/blob/master/ThisAndPrototype.md)
