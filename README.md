@@ -62,6 +62,7 @@
 
 1. [Async](https://github.com/leeshinyook/YouDontKnowJS/blob/master/AsyncAndPerformance/Async.md)
 2. [Callback](https://github.com/leeshinyook/YouDontKnowJS/blob/master/AsyncAndPerformance/Callback.md)
+3. [Promise](https://github.com/leeshinyook/YouDontKnowJS/blob/master/AsyncAndPerformance/Promise.md)
 
 
 
