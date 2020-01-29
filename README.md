@@ -65,6 +65,7 @@
 3. [Promise](https://github.com/leeshinyook/YouDontKnowJS/blob/master/AsyncAndPerformance/Promise.md)
 4. [Generator](https://github.com/leeshinyook/YouDontKnowJS/blob/master/AsyncAndPerformance/Generator.md)
 5. [Performance](https://github.com/leeshinyook/YouDontKnowJS/blob/master/AsyncAndPerformance/Performance.md)
+6. [Benchmark](https://github.com/leeshinyook/YouDontKnowJS/blob/master/AsyncAndPerformance/Benchmark.md)
 
 
 
